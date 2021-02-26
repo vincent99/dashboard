@@ -1758,10 +1758,6 @@ persistentVolume:
       placeholder: e.g. ext4
     readOnly:
       label: Read Only
-<<<<<<< HEAD
-
-=======
->>>>>>> 21c88f54... Create cloud cred in place, DO store, API renames
 
 persistentVolumeClaim:
   accessModes: Access Modes
